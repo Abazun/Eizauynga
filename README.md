@@ -2,13 +2,8 @@
 Eizauynga To Do List
 ====================
 
-Eizauynga as a driveable vehicle
+Add background music
 
-Learn Emitters
-
-Emitters attached to the Eizauynga
-
-
-
+(optional) camera rotation
 
 Learn Source Control
