@@ -19,3 +19,5 @@ Eizauynga APKs
 ====================
 Certain models which run Android will not be able to run this game and certain models will. Pick the correct 
 APK based on the type and model of your Android device.
+
+![The Eizauynga](https://raw.githubusercontent.com/NeosX/Eizauynga/master/Angled%20Side%20View.png)
